@@ -1,7 +1,7 @@
 **Automação Mobile do app Hews Hacker News (Login page)**
 
 
-Este projeto tem como objetivo a automatização dos cenários de testes para a tela (alert) de login do app. O app Hews Haker News está disponível na Play Store: https://play.google.com/store/apps/details?id=com.leavjenn.hews&hl=pt_BR&gl=US
+Este projeto tem como objetivo a automatização dos cenários de testes para a tela (alert) de login do app Hews Haker News. O app encontra se disponível na Play Store: https://play.google.com/store/apps/details?id=com.leavjenn.hews&hl=pt_BR&gl=US
 
 ___
 
@@ -45,6 +45,7 @@ AppiumLibrary<br>
 🛠 Como instalar?
 
 Observação: Python e pip deverão estar previamente instalados em sua máquina.
+
 Execute o arquivo requirements.txt utilizando o seguinte comando no seu path:
 
 ```
@@ -66,8 +67,3 @@ ___
 O robotframework cria automaticamente a pasta de logs com os arquivos log.html e report.html após a execução do projeto.
 
 ___
-
-🎬 **Vídeo com a Execução**
-
-I also recorded a video for this execution, find it here in this link:
-https://drive.google.com/drive/folders/1a_4JJaG1Op6vEanliKcN13RbXKD0r_9C?usp=sharing

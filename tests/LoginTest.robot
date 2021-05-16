@@ -25,7 +25,7 @@ CT03: Login (motivo da falha: Username e Password inexistentes)
     Dado que estou na tela de Login
     E informo username "user_wrong" e password "pass_wrong" inexistentes
     Quando solicito o login
-    E em seguida exibe o erro "Arrr…wrong username/password"
+    Então o app exibe a mensagem de erro "Arrr…wrong username/password"
 
 CT04: Login (fluxo alternativo: botão Cancelar)
     [Tags]    CT04LOGIN

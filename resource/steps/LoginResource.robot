@@ -90,9 +90,6 @@ E o app exibe o nome do usuário logado "${NOME_USUARIO}"
     Acionar a opção de expandir login e ou logout
     Conferir nome do usuário logado    ${NOME_USUARIO}
 
-E em seguida exibe o erro "${MENSAGEM_ERRO}"
-    Conferir mensagem exibida no app    ${MENSAGEM_ERRO}
-
 # ---- STEPS
 Acessar a tela principal do app
     Set Appium Timeout    20
