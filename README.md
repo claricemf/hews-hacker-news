@@ -1,6 +1,5 @@
 **Automação Mobile do app Hews Hacker News (Login page)**
 
-
 Este projeto tem como objetivo a automatização dos cenários de testes para a tela (alert) de login do app Hews Haker News. O app encontra se disponível na Play Store: https://play.google.com/store/apps/details?id=com.leavjenn.hews&hl=pt_BR&gl=US
 
 ___
@@ -34,8 +33,6 @@ resource >>  variables - Variáveis globais e o mapping dos campos da tela do ap
 
 tests - Casos de testes descritos em linguagem natural semelhante ao BDD.
 ___
-
-**Resources**
 
 🎯  O que eu estou utilizando:
 
