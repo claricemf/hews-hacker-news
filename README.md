@@ -1,4 +1,4 @@
-**Automação Mobile for Hews Hacker News (Login page)**
+**Automação Mobile do app Hews Hacker News (Login page)**
 
 
 Este projeto tem como objetivo a automatização dos cenários de testes para a tela (alert) de login do app. O app Hews Haker News está disponível na Play Store: https://play.google.com/store/apps/details?id=com.leavjenn.hews&hl=pt_BR&gl=US
@@ -44,8 +44,9 @@ AppiumLibrary<br>
 
 🛠 Como instalar?
 
-Execute o arquivo requirements.txt utilizando o seguinte comando no seu path:
 Observação: Python e pip deverão estar previamente instalados em sua máquina.
+Execute o arquivo requirements.txt utilizando o seguinte comando no seu path:
+
 ```
 pip install -r requirements
 ```
