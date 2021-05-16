@@ -49,7 +49,7 @@ Observação: Python e pip deverão estar previamente instalados em sua máquina
 Execute o arquivo requirements.txt utilizando o seguinte comando no seu path:
 
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 ___
 
