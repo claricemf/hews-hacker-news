@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ```
 ___
 
-💻  **Configurar o ambiente de teste**
+💻  **Executar o projeto**
 
 Execute o projeto utilizando o seguinte comando no seu terminal dentro da pasta "tests" do projeto:
 
